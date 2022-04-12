@@ -1,4 +1,55 @@
 *{
     margin: 0;
     font-family: 'Roboto', sans-serif;
+    color: salmon;
 }
+body {
+     background-image: url("quote.jpg");
+
+}
+.text-center {
+    color: whitesmoke;
+    font-weight: bold;
+    margin: auto;
+    
+}
+
+.view_port {
+  background-color: black;
+  height: 50px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.cylon_eye {
+  background-color: red;
+  background-image: linear-gradient(to right,
+      rgba(0, 0, 0, .9) 25%,
+      rgba(0, 0, 0, .1) 50%,
+      rgba(0, 0, 0, .9) 75%);
+  color: white;
+  height: 100%;
+  width: 20%;
+
+  -webkit-animation: 4s linear 0s infinite alternate move_eye;
+          animation: 4s linear 0s infinite alternate move_eye;
+}
+
+@-webkit-keyframes move_eye { from { margin-left: -20%; } to { margin-left: 100%; }  }
+        @keyframes move_eye { from { margin-left: -20%; } to { margin-left: 100%; }  }
+
+.quote {
+    color: #E06C78 !important;
+}
+.author {
+    color: #138086;
+}
+
+.btn-success {
+    background-color: #CDB3D4 !important;
+}
+
+.btn-primary {
+    background-color: #E7B7C8 !important;
+}
+
