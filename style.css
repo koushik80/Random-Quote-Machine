@@ -7,6 +7,11 @@ body {
      background-image: url("quote.jpg");
 
 }
+
+.container-fluid {
+    margin-top: 260px;
+
+}
 .text-center {
     color: whitesmoke;
     font-weight: bold;
@@ -40,6 +45,7 @@ body {
 
 .quote {
     color: #E06C78 !important;
+    font-style: italic;
 }
 .author {
     color: #138086;
