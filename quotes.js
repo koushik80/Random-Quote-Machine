@@ -11,7 +11,6 @@ const QUOTEPEDIA = [
        "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.", "author": "Dan Salomon"},
 {
        "quote": "Code is like humor. When you have to explain it, it’s bad.", "author": "Cory House"},
-
 {
        "quote":"Life isn’t about getting and having, it’s about giving and being.","author":"Kevin Kruse"},
 {

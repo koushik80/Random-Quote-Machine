@@ -1,4 +1,4 @@
-<div align="center"><a href="########">Random Quote Machine</a></div>
+<div align="center"><a href="https://koushik80.github.io/Random-Quote-Machine/">Random Quote Machine</a></div>
 <h1 align="center">fcc_Frontend Dev Project 1</h1>
 <h3 align="left">Technologies:</h3>
 <ul>
